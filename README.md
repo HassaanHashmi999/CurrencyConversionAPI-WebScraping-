@@ -1,6 +1,6 @@
-#Readme
+# Readme
 
-##Api Usage and Json prase Exercise 
+## Api Usage and Json prase Exercise 
 
 An API (Application Programming Interface) is a software program that provides communication channels
 following the HTTP protocol between 2 applications. It is usually used for allowing a client to request or update
